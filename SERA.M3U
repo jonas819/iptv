@@ -1,0 +1,59 @@
+
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [FHD]" tvg-logo="http://p6.vc/APR" group-title="Canais | Filmes e Séries",AXN [FHD]
+http://pfsv.io:80/6705646555/60670/295.ts
+
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries",AXN [HD]
+http://pfsv.io:80/6705646555/60670/301.ts
+
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [SD]" tvg-logo="http://p6.vc/AQT" group-title="Canais | Filmes e Séries",AXN [SD]
+http://pfsv.io:80/6705646555/60670/326.ts
+
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MULTISHOW [FHD]" tvg-logo="http://p6.vc/VAH" group-title="Canais | Art & Music",MULTISHOW [FHD]
+http://pfsv.io:80/6705646555/60670/3.ts
+
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MULTISHOW [HD]" tvg-logo="http://p6.vc/AFO" group-title="Canais | Art & Music",MULTISHOW [HD]
+http://pfsv.io:80/6705646555/60670/16.ts
+
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MULTISHOW [SD]" tvg-logo="http://p6.vc/AFJ" group-title="Canais | Art & Music",MULTISHOW [SD]
+http://pfsv.io:80/6705646555/60670/10.ts
+
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV [FHD]" tvg-logo="http://p6.vc/VAF" group-title="Canais | Art & Music",MTV [FHD]
+http://pfsv.io:80/6705646555/60670/1.ts
+
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV [HD]" tvg-logo="http://p6.vc/VAK" group-title="Canais | Art & Music",MTV [HD]
+http://pfsv.io:80/6705646555/60670/15.ts
+
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV [SD]" tvg-logo="http://p6.vc/AFI" group-title="Canais | Art & Music",MTV [SD]
+http://pfsv.io:80/6705646555/60670/9.ts
+
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [FHD]" tvg-logo="http://p6.vc/AJP" group-title="Canais | Infantis",CARTOON NETWORK [FHD]
+http://pfsv.io:80/6705646555/60670/126.ts
+
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [HD]" tvg-logo="http://p6.vc/AKC" group-title="Canais | Infantis",CARTOON NETWORK [HD]
+http://pfsv.io:80/6705646555/60670/139.ts
+
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [SD]" tvg-logo="http://p6.vc/AKM" group-title="Canais | Infantis",CARTOON NETWORK [SD]
+http://pfsv.io:80/6705646555/60670/151.ts
+
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [FHD]" tvg-logo="http://p6.vc/WJV" group-title="Canais | Documentários",DISCOVERY TURBO [FHD]
+http://pfsv.io:80/6705646555/60670/171.ts
+
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [HD]" tvg-logo="http://p6.vc/WJV" group-title="Canais | Documentários",DISCOVERY TURBO [HD]
+http://pfsv.io:80/6705646555/60670/186.ts
+
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [SD]" tvg-logo="http://p6.vc/WJV" group-title="Canais | Documentários",DISCOVERY TURBO [SD]
+http://pfsv.io:80/6705646555/60670/201.ts
+
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SporTV [4K]" tvg-logo="http://p6.vc/7" group-title="Canais | 4K",SporTV [4K]
+http://pfsv.io:80/6705646555/60670/589.ts
+
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [FHD]" tvg-logo="http://p6.vc/AYI" group-title="Canais | SporTV",SPORTV [FHD]
+http://pfsv.io:80/6705646555/60670/555.ts
+
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [HD]" tvg-logo="http://p6.vc/AYJ" group-title="Canais | SporTV",SPORTV [HD]
+http://pfsv.io:80/6705646555/60670/556.ts
+
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [SD]" tvg-logo="http://p6.vc/AYM" group-title="Canais | SporTV",SPORTV [SD]
+http://pfsv.io:80/6705646555/60670/559.ts
+
+
