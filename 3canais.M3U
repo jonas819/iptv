@@ -1,0 +1,9 @@
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MULTISHOW [FHD]" tvg-logo="http://p6.vc/VAH" group-title="Canais | Art & Music",MULTISHOW [FHD]
+http://pfsv.io:80/6705646555/60670/3.ts
+
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV [FHD]" tvg-logo="http://p6.vc/VAF" group-title="Canais | Art & Music",MTV [FHD]
+http://pfsv.io:80/6705646555/60670/1.ts
+
+
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries",AXN [HD]
+http://pfsv.io:80/6705646555/60670/301.ts
